@@ -1,6 +1,8 @@
-**Societrix – University Society & Event Management Platform**
+**Societrix – University Society Management Web Application**
 
 **Societrix** is a comprehensive web-based platform developed to streamline the operations of student societies and administrative bodies within universities or institutions. It facilitates society registration, event proposal and approval workflows, internal communication, fund management, and post-event reporting — all in one centralized system.
+
+> This web application was developed as a **semester project** for the **Web Engineering course** at our university. It is the collaborative work of **Sumayya Yasin**, along with a highly capable team comprising **Naila Awan**, **Hissan Butt**, and **Zaynah Imran**.
 
 ---
 
@@ -233,5 +235,3 @@ npm install express mongoose dotenv cors jsonwebtoken bcryptjs axios
 npm install @reduxjs/toolkit react-redux react-router-dom react-toastify
 npm install tailwindcss @headlessui/react @heroicons/react
 ```
-
-
