@@ -240,7 +240,10 @@ npm install tailwindcss @headlessui/react @heroicons/react
 
 ## Contributors
 
-<a href="https://github.com/sumayya-yasin"><img src="https://avatars.githubusercontent.com/u/106207898" width="60px" alt="Sumayya Yasin"/></a>
-<a href="https://github.com/naila-awan"><img src="https://avatars.githubusercontent.com/u/139185124" width="60px" alt="Naila Awan"/></a>
-<a href="https://github.com/hissan-2002"><img src="https://avatars.githubusercontent.com/u/154104853" width="60px" alt="Hissan Butt"/></a>
-<a href="https://github.com/zaynah024"><img src="https://avatars.githubusercontent.com/u/138531660" width="60px" alt="Zaynah Imran"/></a>
+## Contributors
+
+<a href="https://github.com/sumayya-yasin"><img src="https://github.com/sumayya-yasin.png" width="60px" alt="Sumayya Yasin"/></a>
+<a href="https://github.com/naila-awan"><img src="https://github.com/naila-awan.png" width="60px" alt="Naila Awan"/></a>
+<a href="https://github.com/hissan-2002"><img src="https://github.com/hissan-2002.png" width="60px" alt="Hissan Butt"/></a>
+<a href="https://github.com/zaynah024"><img src="https://github.com/zaynah024.png" width="60px" alt="Zaynah Imran"/></a>
+
