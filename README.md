@@ -16,6 +16,7 @@
 6. [Project Setup](#project-setup)
 7. [Running the Application](#running-the-application)
 8. [Notes](#notes)
+9. [Contributors](#contributors)
 
 ---
 
@@ -235,3 +236,11 @@ npm install express mongoose dotenv cors jsonwebtoken bcryptjs axios
 npm install @reduxjs/toolkit react-redux react-router-dom react-toastify
 npm install tailwindcss @headlessui/react @heroicons/react
 ```
+---
+
+## Contributors
+
+<a href="https://github.com/sumayya-yasin"><img src="https://avatars.githubusercontent.com/u/106207898" width="60px" alt="Sumayya Yasin"/></a>
+<a href="https://github.com/naila-awan"><img src="https://avatars.githubusercontent.com/u/139185124" width="60px" alt="Naila Awan"/></a>
+<a href="https://github.com/hissan-2002"><img src="https://avatars.githubusercontent.com/u/154104853" width="60px" alt="Hissan Butt"/></a>
+<a href="https://github.com/zaynah024"><img src="https://avatars.githubusercontent.com/u/138531660" width="60px" alt="Zaynah Imran"/></a>
